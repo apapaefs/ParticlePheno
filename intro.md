@@ -1,16 +1,11 @@
-# Computational Physics I - PHYS 3500K
+# An Introduction to Scientific Computing (with Particle Physics Phenomenology)
 
 ## Introduction
 
-This book is constructed from the repository dedicated to
-Computational Physics I (PHYS 3500K) at Kennesaw State University. 
+This book is constructed from material constructed for the purposes of the
+"Computational Physics I (PHYS 3500K)" course at Kennesaw State University. 
 
-Here, you will find examples and notes pertaining to the course, as well as additional material. 
-
-Note that the repository is meant to evolve during the
-semester. Solutions to the homework problems are given to the students
-taking the course, and they can be provided from the author upon
-request. 
+Here, you will find examples and notes pertaining to the course, as well as additional material.  
 
 ```{tableofcontents}
 ```

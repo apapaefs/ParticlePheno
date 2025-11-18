@@ -1,6 +1,6 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-title: An Introduction Scientific Computing and Particle Physics Phenomenology
+title: An Introduction to Scientific Computing (with Particle Physics Phenomenology)
 format: jb-book
 root: intro
 options:  # The options key will be applied to all chapters, but not sub-sections
@@ -17,6 +17,6 @@ chapters:
 - file: Chapters/Chapter9/Chapter9.ipynb
 - file: Chapters/Chapter10/Chapter10.ipynb
 - file: Chapters/Chapter11/Chapter11.ipynb
-- file: Chapters/integration/CrossSection.ipynb
-- file: Chapters/eventgeneration/introduction.ipynb
-- file: Chapters/eventgeneration/eemumu.ipynb
+- file: Chapters/Chapter12/CrossSection.ipynb
+- file: Chapters/Chapter12/introduction.ipynb
+- file: Chapters/Chapter12/eemumu.ipynb
