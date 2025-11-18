@@ -17,6 +17,4 @@ chapters:
 - file: Chapters/Chapter9/Chapter9.ipynb
 - file: Chapters/Chapter10/Chapter10.ipynb
 - file: Chapters/Chapter11/Chapter11.ipynb
-- file: Chapters/Chapter12/CrossSection.ipynb
-- file: Chapters/Chapter12/introduction.ipynb
-- file: Chapters/Chapter12/eemumu.ipynb
+- file: Chapters/Chapter13/Chapter13.ipynb
